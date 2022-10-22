@@ -43,3 +43,6 @@ app.listen(4000,err=>{
     console.log("test");
     }
 })
+
+
+//kucaj npm i i radi ti projekat
